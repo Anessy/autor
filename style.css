@@ -1,0 +1,43 @@
+body{
+	 background-image: url(fon1.jpg);
+	 background-size: 100%; 
+	 }
+	 
+#firstname {
+	text-align: center;
+	margin: 30px; 
+	padding: 10px;
+	font-family: Art-Victorian;
+	font-size: 40px;
+	background-color: #e4cda4;
+	border-style: solid;
+	border-width: 1px;
+}
+
+#secondname {
+	text-align: center;
+	margin: 30px; 
+	padding: 10px;
+	font-size: 20px;
+	background-color: #e4cda4;
+	border-style: solid;
+	border-width: 0px;
+}
+
+#tname {
+	text-align: justify;
+	margin: 11px; 
+	padding: 11px;
+	font-size: 20px;
+	background-color: #e4cda4;
+	border-style: solid;
+	border-width: 0px;
+}
+
+#fname {
+	width: 30%;
+	overflow: auto; 
+	display: inline;
+	font-size: 18px;
+}
+
